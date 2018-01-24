@@ -3,4 +3,5 @@ def valid_move?(index)
     return true
   else
     false
+  end  
 end
